@@ -24,7 +24,7 @@ To get started with the COVID-19 World Vaccination Progress project, follow thes
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/covid19-vaccination-progress.git
+    git clone https://github.com/syed-muqtasid-ali/covid19-vaccination-progress.git
     ```
 
 2. **Navigate to the project directory**:
